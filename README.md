@@ -1,0 +1,6 @@
+# Hey! I'm Lucy.
+### <https://lucypoulton.net> | [__lucyy#0001](https://discord.lucypoulton.net/) | [lucy@lucypoulton.net](mailto:lucy@lucypoulton.net)
+
+I'm a teenage developer from the UK. I write silly little projects for fun. I try not to take myself too seriously, but I thoroughly enjoy spending time making my work the best it can be.
+
+I mostly work in Java, Kotlin, and JavaScript/TypeScript, but I'm always up for learning something new. I'm a fan of Angular for web stuff.
