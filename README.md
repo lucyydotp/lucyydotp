@@ -1,5 +1,5 @@
 # Hey! I'm Lucy.
-### <https://lucypoulton.net> | [lucyy.p#0001](https://discord.lucypoulton.net/) | [lucy@lucypoulton.net](mailto:lucy@lucypoulton.net)
+### <https://lucypoulton.net> | [lucyy.p#3244](https://discord.lucypoulton.net/) | [lucy@lucypoulton.net](mailto:lucy@lucypoulton.net)
 
 I write silly little projects for fun. I try not to take myself too seriously, but I thoroughly enjoy spending time making my work the best it can be.
 
